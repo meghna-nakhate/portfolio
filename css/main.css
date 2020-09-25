@@ -1,0 +1,27 @@
+.site-header{
+ background-color: aquamarine;
+ color:#726a95;
+ height: 100vh;
+ font-family: 'Courier New';
+ display:flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ margin: 5px;
+}
+body{
+    margin: 0;
+
+}
+.site-header-content
+{
+    margin: 10px;
+}
+.profilepic{
+    border-radius: 50%;
+    height:200px ;
+    width: 200px;
+    align-self:"center";
+    box-shadow: blue 2px 5px 5px;
+
+} 
