@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
 
 :root {
-    --primary-color: #7C3AED;
+    --primary-color: #F50057;
     --off-white: #F3F4F6;
     --dark-gray: #6B7280;
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'ubuntu', sans-serif;
     margin: 2rem;
 }
 
