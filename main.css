@@ -37,11 +37,13 @@ hr {
     box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    text-align: CENTER;
 }
 
 .link-primary {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
+    text-align: center;
     color: white;
     display: block;
     max-width: 140px;
